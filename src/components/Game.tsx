@@ -1,5 +1,5 @@
-import './Game.css';
-import Board,{BoardValues} from './components/Board';
+import '../css/Game.css';
+import Board,{BoardValues} from './Board';
 import { useState } from 'react';
 
 interface GameProps {
